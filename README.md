@@ -14,6 +14,7 @@
     <a href="https://github.com/Tybenson0/Python-Package-Delivery/issues">Report Bug</a>
     ·
     <a href="https://github.com/Tybenson0/Python-Package-Delivery/pulls">Request Feature</a>
+    ·
     <a href="https://www.youtube.com/watch?v=MapfSDed65Q">Live Demo</a>
   </p>
 </div>
